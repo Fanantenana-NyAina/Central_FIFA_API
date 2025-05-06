@@ -1,4 +1,4 @@
-package com.fifa_central.fifa_centrak_api.models;
+package com.fifa_central.fifa_central_api.models;
 
 import lombok.AllArgsConstructor;
 
